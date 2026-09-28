@@ -1,0 +1,5292 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 330,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 84.46347227,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 84.15060238,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 80.52775094,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 80.68989314,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 81.34269353,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 73.9124399133589,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 70.4342825404361,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 67.4712845236305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 60.8725400681261,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 58.3279517340924,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 54.5510018796392,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 51.04,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 48.56,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 45.69,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 40.65,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 39.22,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 33.83,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 30.87999916,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 28.17840004,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 21.022747248827,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 19.073672274442,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 13.2075861035303,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 9.14942508560748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 4.52849486902851,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 2.87068515854108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 2.04,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 1.48,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 0.786,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 0.451,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 0.105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": 0.0377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": 0.0255,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1992",
+      "value": 0.0129,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1991",
+      "value": 0.00329,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1990",
+      "value": 0,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2024",
+      "value": 93.72405196,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2023",
+      "value": 93.51385075,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2022",
+      "value": 92.98879471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2021",
+      "value": 92.80806082,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2020",
+      "value": 92.17027106,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2019",
+      "value": 89.6073851129779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2018",
+      "value": 88.8899599985585,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2017",
+      "value": 87.4689290730615,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2016",
+      "value": 87.7036499599455,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2015",
+      "value": 86.4221333325445,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2014",
+      "value": 86.5303927529377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2013",
+      "value": 91.5144,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2012",
+      "value": 89.879997974222,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2011",
+      "value": 88.70999491353,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2010",
+      "value": 86.89,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2009",
+      "value": 82.49,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2008",
+      "value": 83.67,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2007",
+      "value": 80.78,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2006",
+      "value": 79.66,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2005",
+      "value": 74.48,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2004",
+      "value": 72.39,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2003",
+      "value": 69.22,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2002",
+      "value": 62.43,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2001",
+      "value": 43.1053633522263,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2000",
+      "value": 37.2484617371121,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1999",
+      "value": 32.3,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1998",
+      "value": 25.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1997",
+      "value": 19.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1996",
+      "value": 16.8,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1995",
+      "value": 13.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1994",
+      "value": 4.92,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1993",
+      "value": 2.57,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1992",
+      "value": 1.89,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1991",
+      "value": 1.4,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1990",
+      "value": 0.401,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2025",
+      "value": 70,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2024",
+      "value": 64.9434967,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2023",
+      "value": 60.25230026,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 55.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2021",
+      "value": 49.2580986,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 43.40544313,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 29.52350044,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 20.0813000379384,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 18.20000076,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 16.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 14.89999962,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 13.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 12.30000019,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 11.10000038,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 10.07,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 7.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 5.12,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": 4.38,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": 3.95,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": 2.80549986534254,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": 2.388099909,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": 1.97613649190559,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": 1.68648997063625,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": 1.53787558175083,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": 0.660146377009928,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": 0.527532449930946,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": 0.273,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": 0.139,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": 0.0708,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": 0.0463,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": 0.0262,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": 0.00107,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": 0.000218,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": 0.000111,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": 0,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2024",
+      "value": 97.89563777,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2023",
+      "value": 97.41597478,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2022",
+      "value": 97.16855335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2021",
+      "value": 97.57132698,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2020",
+      "value": 96.50506052,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2019",
+      "value": 96.157579184239,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2018",
+      "value": 96.0228595797887,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2017",
+      "value": 95.0694218761004,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2016",
+      "value": 92.8430256796075,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2015",
+      "value": 89.8962557995106,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2014",
+      "value": 87.5568264944747,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2013",
+      "value": 84.77,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2012",
+      "value": 84.07,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2011",
+      "value": 83.7591201534472,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2010",
+      "value": 83.7,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2009",
+      "value": 81.6,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2008",
+      "value": 81,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2007",
+      "value": 78.8,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2006",
+      "value": 78.1,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2005",
+      "value": 73.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2004",
+      "value": 72.7,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2003",
+      "value": 65.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2002",
+      "value": 59.4,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2001",
+      "value": 56.6,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2000",
+      "value": 44.7,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1999",
+      "value": 23.6,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1998",
+      "value": 6.78,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1997",
+      "value": 3.6,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1996",
+      "value": 1.62,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1995",
+      "value": 0.82,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1994",
+      "value": 0.311,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1993",
+      "value": 0.25,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1992",
+      "value": 0.0984,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1991",
+      "value": 0.0461,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1990",
+      "value": 0.0233,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 83.12233799,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 81.18318755,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 78.63217894,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 75.62650476,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 71.49017499,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 69.6321092705209,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 56.6595667981289,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 53.0317886110982,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 59.5404459967255,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 57.4310429923633,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2014",
+      "value": 44.3856962723411,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2013",
+      "value": 43.46,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2012",
+      "value": 39.75,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2011",
+      "value": 37.1762954125184,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2010",
+      "value": 31.05,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2009",
+      "value": 26.34,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2008",
+      "value": 21.71,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2007",
+      "value": 20.81,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2006",
+      "value": 19.52000046,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2005",
+      "value": 17.20999908,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2004",
+      "value": 14.1,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2003",
+      "value": 12.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2002",
+      "value": 11.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2001",
+      "value": 7.0380231165045,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2000",
+      "value": 5.08138415338066,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1999",
+      "value": 1.86,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1998",
+      "value": 1.27,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1997",
+      "value": 0.627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1996",
+      "value": 0.2,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1995",
+      "value": 0.103,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1994",
+      "value": 0.0433,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1993",
+      "value": 0.0283,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1992",
+      "value": 0.0173,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1991",
+      "value": 0.00588,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1990",
+      "value": 0,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

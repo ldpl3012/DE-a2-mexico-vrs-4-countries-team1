@@ -1,0 +1,5292 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 330,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 11.1103644206652,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 9.849149349554,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 9.11134627987528,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 9.00155420026002,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 11.3500942678804,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 14.0668052120423,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 14.7442418256611,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 14.3118892236086,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 16.0001642772964,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 14.4858996246715,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 12.3711688680768,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 11.9698618012495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 11.8872212915256,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 11.1409081379377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 12.590146869358,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 14.7587820517537,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 12.761526959305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 12.6278356939529,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2024",
+      "value": 9.28522659633957,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2023",
+      "value": 9.71402259549133,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2022",
+      "value": 9.62392843667484,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2021",
+      "value": 10.2937538536253,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2020",
+      "value": 9.98230025285834,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2019",
+      "value": 9.21470120593618,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2018",
+      "value": 9.01765355032152,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2017",
+      "value": 9.6573147330322,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2016",
+      "value": 10.052829776298,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2015",
+      "value": 10.1842827866076,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2014",
+      "value": 10.0525206084322,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2013",
+      "value": 9.02643257926868,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2012",
+      "value": 10.4739136902235,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2011",
+      "value": 11.0754610454262,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2010",
+      "value": 13.1468637622035,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2009",
+      "value": 18.0159799627138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2008",
+      "value": 21.4878899291626,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2007",
+      "value": 21.7677559554834,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2024",
+      "value": 18.5723946411049,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2023",
+      "value": 14.9343472986716,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 12.6822794807287,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2021",
+      "value": 10.2125596625118,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 11.0325638466576,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 10.2237396907979,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 9.04145168835151,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 7.36208114076572,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 7.66325704378624,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 8.02476917234515,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 9.22122174793918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 8.87350364988968,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 7.70439427946636,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 7.87117262454535,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 7.73016032755592,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 9.56909614274288,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2024",
+      "value": 36.2582559366674,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2023",
+      "value": 30.2762799912651,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2022",
+      "value": 36.118278931217,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2021",
+      "value": 36.014503674486,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2020",
+      "value": 35.6022265413283,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2019",
+      "value": 32.4050621736765,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2018",
+      "value": 36.3912233579129,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2017",
+      "value": 32.546316460744,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2016",
+      "value": 30.5250266717443,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2015",
+      "value": 31.2119270912605,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2014",
+      "value": 30.0608682657817,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2013",
+      "value": 29.8181999078998,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2012",
+      "value": 28.2220757644767,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2011",
+      "value": 28.2133210437189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2010",
+      "value": 32.1343974843399,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2009",
+      "value": 32.1484365401841,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2008",
+      "value": 30.4501393108657,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2007",
+      "value": 32.4282584168837,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 19.3037596613987,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 17.9938785812602,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 20.5343692257849,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 19.8113406398377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 21.5074249745377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 20.4068584131191,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 20.8917456407643,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 21.1680967750153,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 20.6541116351274,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 19.5727021142392,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2014",
+      "value": 20.2220997751974,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2013",
+      "value": 20.5109447612712,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2012",
+      "value": 21.3533236921301,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2011",
+      "value": 21.1481206882898,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2010",
+      "value": 22.1357931748892,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2009",
+      "value": 22.6859342702857,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2008",
+      "value": 20.6169583313567,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "TX.VAL.TECH.MF.ZS",
+        "value": "High-technology exports (% of manufactured exports)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

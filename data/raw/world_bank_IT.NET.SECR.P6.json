@@ -1,0 +1,5292 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 330,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 6941.17408045006,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 5628.66295682819,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 4685.09246377482,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 3546.59010881655,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 3144.86893520731,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 2788.39613470957,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 2069.60200203718,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 1605.82544177505,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 415.986539467638,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 161.164815967859,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 113.841545053971,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 87.9491616360537,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 71.4103906694906,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 44.5964199126799,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 28.5438561636627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2024",
+      "value": 177933.600727841,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2023",
+      "value": 153868.49826224,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2022",
+      "value": 131286.012181913,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2021",
+      "value": 104960.876315666,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2020",
+      "value": 81650.5089118576,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2019",
+      "value": 57692.6350775481,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2018",
+      "value": 33999.120663944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2017",
+      "value": 22324.1144951885,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2016",
+      "value": 7131.36291119889,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2015",
+      "value": 3395.18108392853,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2014",
+      "value": 3008.87373313471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2013",
+      "value": 2525.47724091979,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2012",
+      "value": 2205.22053036487,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2011",
+      "value": 1581.02634759344,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2010",
+      "value": 1017.4607223244,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2024",
+      "value": 1212.44166069372,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2023",
+      "value": 966.082590066802,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 729.692060044831,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2021",
+      "value": 528.190455501333,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 472.187112968085,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 382.862055209059,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 184.79636635197,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 121.20038474398,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 37.7418916475687,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 11.5306607845422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 8.33741535327806,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 6.08104687623525,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 4.46086943243043,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 2.25336486642335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 1.65744314967584,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2024",
+      "value": 11902.38307173,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2023",
+      "value": 9728.36049939764,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2022",
+      "value": 8821.91477648421,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2021",
+      "value": 7334.11978035964,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2020",
+      "value": 5939.01112308707,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2019",
+      "value": 4538.9511819436,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2018",
+      "value": 2065.98585194961,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2017",
+      "value": 1198.94292873955,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2016",
+      "value": 720.999297841807,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2015",
+      "value": 557.718897561532,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2014",
+      "value": 406.608048817559,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2013",
+      "value": 337.108331923923,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2012",
+      "value": 268.327478966921,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2011",
+      "value": 208.524250270913,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2010",
+      "value": 175.323492831432,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 531.655697865752,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 412.117306307005,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 381.889508206228,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 348.79471968524,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 328.196454841059,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 275.399004136209,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 228.675856015881,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 187.552587597265,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 120.71850232559,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 58.2627046023225,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2014",
+      "value": 41.1573270047557,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2013",
+      "value": 31.7380986967497,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2012",
+      "value": 26.9307332637734,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2011",
+      "value": 17.363234634032,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2010",
+      "value": 13.4742784517288,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2007",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2006",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.SECR.P6",
+        "value": "Secure Internet servers (per 1 million people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

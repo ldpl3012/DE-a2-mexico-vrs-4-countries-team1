@@ -1,0 +1,13 @@
+# Temporary local package used only to extract the assignment PDF
+_tools/
+
+# Python and Jupyter local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

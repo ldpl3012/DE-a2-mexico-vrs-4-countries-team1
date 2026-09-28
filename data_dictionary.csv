@@ -1,0 +1,12 @@
+variable,definition,unit,source
+country_code,ISO 3166-1 alpha-3 country code,code,World Bank API
+country,Country name,text,World Bank API
+digital_readiness_score,Mean of the eight oriented min–max normalised indicator scores,0–1,Team calculation
+fixed_broadband_per_100,Fixed broadband subscriptions (per 100 people),subscriptions per 100 people,ITU DataHub (published through World Bank WDI)
+mobile_subscriptions_per_100,Mobile cellular subscriptions (per 100 people),subscriptions per 100 people,ITU DataHub (published through World Bank WDI)
+internet_users_pct,Individuals using the Internet (% of population),% of population,ITU DataHub (published through World Bank WDI)
+secure_servers_per_million,Secure Internet servers (per 1 million people),per 1 million people,World Bank WDI
+ict_service_exports_pct,"ICT service exports (% of service exports, BoP)",% of service exports,World Bank WDI
+high_tech_exports_pct,High-technology exports (% of manufactured exports),% of manufactured exports,World Bank WDI
+rd_expenditure_pct_gdp,Research and development expenditure (% of GDP),% of GDP,World Bank WDI
+resident_patent_applications,"Patent applications, residents",count,WIPO IP Statistics (published through World Bank WDI)

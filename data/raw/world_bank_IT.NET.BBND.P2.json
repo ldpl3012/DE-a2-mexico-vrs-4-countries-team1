@@ -1,0 +1,5292 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 330,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 24.079199344422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 22.4192301618889,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 20.9534469027015,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 19.8363162401481,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 17.418059685583,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 15.8621991239093,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 15.1537620986579,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 14.1218273097456,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 13.217709027651,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 12.6353840484725,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 11.9790772854396,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 10.7622017659472,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 9.71151141846763,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 9.13182030910824,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 7.27968486054674,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 6.10682944207956,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 5.26188788450655,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 4.03572440795213,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 2.55393928456781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 1.75095200096296,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 1.7284595748202,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 0.534956051589709,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 0.409515816509217,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 0.187746875442478,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 0.0574652265559086,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 0.004034901,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 0.000584659,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2024",
+      "value": 36.4765341417867,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2023",
+      "value": 35.3318092510781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2022",
+      "value": 34.2951599474189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2021",
+      "value": 33.6396818306917,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2020",
+      "value": 33.3838974597133,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2019",
+      "value": 32.5439773811208,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2018",
+      "value": 31.491717515124,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2017",
+      "value": 31.0435197469463,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2016",
+      "value": 31.152937083259,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2015",
+      "value": 31.5690938053918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2014",
+      "value": 32.1970293411336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2013",
+      "value": 31.6268291557372,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2012",
+      "value": 30.4323757921866,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2011",
+      "value": 29.8056452931485,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2010",
+      "value": 29.0751116373162,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2009",
+      "value": 29.3246343411397,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2008",
+      "value": 30.4514435922766,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2007",
+      "value": 30.5745635514142,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2006",
+      "value": 27.1350736112454,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2005",
+      "value": 22.3824179644924,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2004",
+      "value": 15.3017856418755,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2003",
+      "value": 9.42076039405673,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2002",
+      "value": 5.25906318298117,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2001",
+      "value": 2.58289801542838,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2000",
+      "value": 0.67617144771398,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2024",
+      "value": 3.15046250037677,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2023",
+      "value": 2.74534696441771,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 2.35231555917724,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2021",
+      "value": 1.9487996093033,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 1.63622632751685,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 1.37913181839908,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 1.3217822859385,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 1.31327377028949,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 1.38795276378032,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 1.27578595315943,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 1.20020374567342,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 1.15197793176359,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 1.17169600055105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 1.05858887089543,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 0.883808841093522,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 0.632032113675308,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": 0.437111073178848,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": 0.262875874276131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": 0.196098678184923,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": 0.116742672757431,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": 0.0206867742681806,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": 0.0125681968302295,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": 0.00750810600120237,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": 0.00463865535771768,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2024",
+      "value": 47.8014965507867,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2023",
+      "value": 46.5676352036327,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2022",
+      "value": 45.4542124182774,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2021",
+      "value": 44.2526082339633,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2020",
+      "value": 43.0540600860627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2019",
+      "value": 42.0373507524342,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2018",
+      "value": 41.2189959375994,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2017",
+      "value": 41.1680978249153,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2016",
+      "value": 40.0712454963259,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2015",
+      "value": 39.2759563055891,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2014",
+      "value": 37.9883114555998,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2013",
+      "value": 37.4217663483917,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2012",
+      "value": 36.8000321131758,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2011",
+      "value": 36.353305205381,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2010",
+      "value": 35.2563205089625,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2009",
+      "value": 33.675976694352,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2008",
+      "value": 32.0017644786606,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2007",
+      "value": 30.5325293113359,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2006",
+      "value": 29.2516487032032,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2005",
+      "value": 25.4760546993955,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2004",
+      "value": 24.994067246262,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2003",
+      "value": 23.5266686815046,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2002",
+      "value": 21.9993226089619,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2001",
+      "value": 16.6187152698861,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2000",
+      "value": 8.27512573540369,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1999",
+      "value": 0.59758673,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1998",
+      "value": 0.030270101,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 21.7367225364543,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 20.752917384408,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 20.6070256426489,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 19.2796725887476,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 17.7520559419946,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 15.3885155172291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 14.7373951154108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 13.7767213511093,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 13.0255992017626,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 12.1891508368561,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2014",
+      "value": 10.8799928230972,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2013",
+      "value": 10.7719183026526,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2012",
+      "value": 11.1945528217656,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2011",
+      "value": 10.0362003918243,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2010",
+      "value": 9.31394316309963,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2009",
+      "value": 8.60820715794462,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2008",
+      "value": 6.82462658332165,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2007",
+      "value": 4.14106964177955,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2006",
+      "value": 2.81575456824012,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2005",
+      "value": 1.81677032017237,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2004",
+      "value": 1.01277915709648,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2003",
+      "value": 0.41598094515152,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2002",
+      "value": 0.227955821439786,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2001",
+      "value": 0.0499504995544465,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2000",
+      "value": 0.0152090403509224,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    }
+  ]
+]

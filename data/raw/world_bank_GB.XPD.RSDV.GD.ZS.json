@@ -1,0 +1,5292 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 330,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 1.1938,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 1.18873,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 1.13371,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 1.21907,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 1.15115,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 1.15016,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 1.1175,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 1.19584,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 1.28464,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 1.26971,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 1.19567,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 1.12684,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 1.13966,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 1.15992,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 1.11866,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 1.12904,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 1.08138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 0.98807,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 1.00247,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 0.96343,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 0.99939,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 1.00967,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 1.06197,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 1.04752,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2023",
+      "value": 3.0938,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2022",
+      "value": 2.982,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2021",
+      "value": 3.01133,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2020",
+      "value": 2.93278,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2019",
+      "value": 2.81534,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2018",
+      "value": 2.77601,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2017",
+      "value": 2.74723,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2016",
+      "value": 2.74716,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2015",
+      "value": 2.88826,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2014",
+      "value": 3.16344,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2013",
+      "value": 3.28462,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2012",
+      "value": 3.4095,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2011",
+      "value": 3.62434,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2010",
+      "value": 3.70524,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2009",
+      "value": 3.73427,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2008",
+      "value": 3.53719,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2007",
+      "value": 3.33727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2006",
+      "value": 3.33285,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2005",
+      "value": 3.32412,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2004",
+      "value": 3.30943,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2003",
+      "value": 3.29898,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2002",
+      "value": 3.25409,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2001",
+      "value": 3.19405,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "2000",
+      "value": 3.24271,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1999",
+      "value": 3.05687,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1998",
+      "value": 2.78542,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1997",
+      "value": 2.6226,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1996",
+      "value": 2.45511,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "countryiso3code": "FIN",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 0.64558,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 0.65942,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 0.66001,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 0.66603,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 0.66984,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 0.6931,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 0.70158,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 0.70642,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 0.74399,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 0.75502,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 0.78849,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 0.83314,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": 0.85876,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": 0.80507,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": 0.80473,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": 0.82411,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": 0.7569,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": 0.71929,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": 0.72567,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": 0.73591,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": 0.75699,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": 0.72413,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": 0.70378,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": 0.68669,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": 0.63905,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2023",
+      "value": 4.94352,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2022",
+      "value": 4.84753,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2021",
+      "value": 4.59673,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2020",
+      "value": 4.5214,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2019",
+      "value": 4.36379,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2018",
+      "value": 4.27155,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2017",
+      "value": 4.07341,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2016",
+      "value": 3.78638,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2015",
+      "value": 3.78907,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2014",
+      "value": 3.88983,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2013",
+      "value": 3.77487,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2012",
+      "value": 3.6852,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2011",
+      "value": 3.44409,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2010",
+      "value": 3.17913,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2009",
+      "value": 3.02145,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2008",
+      "value": 2.86774,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2007",
+      "value": 2.75895,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2006",
+      "value": 2.61516,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2005",
+      "value": 2.42725,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2004",
+      "value": 2.35292,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2003",
+      "value": 2.19657,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2002",
+      "value": 2.13042,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2001",
+      "value": 2.19872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "2000",
+      "value": 2.0494,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1999",
+      "value": 1.9446,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1998",
+      "value": 2.03608,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1997",
+      "value": 2.17409,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1996",
+      "value": 2.14233,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "countryiso3code": "KOR",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 0.25372,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 0.26746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 0.25727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 0.27305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 0.29185,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 0.27629,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 0.29816,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 0.31955,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 0.37601,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 0.41477,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2014",
+      "value": 0.41962,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2013",
+      "value": 0.40806,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2012",
+      "value": 0.40284,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2011",
+      "value": 0.45268,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2010",
+      "value": 0.47353,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2009",
+      "value": 0.45748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2008",
+      "value": 0.42416,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2007",
+      "value": 0.38039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2006",
+      "value": 0.35298,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2005",
+      "value": 0.38103,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2004",
+      "value": 0.37053,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2003",
+      "value": 0.37454,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2002",
+      "value": 0.33745,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2001",
+      "value": 0.30815,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2000",
+      "value": 0.29205,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1999",
+      "value": 0.32719,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1998",
+      "value": 0.28519,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1997",
+      "value": 0.26404,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1996",
+      "value": 0.23838,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1989",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1988",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1987",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1986",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1985",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1984",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1983",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1982",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1981",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1980",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1979",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1978",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1977",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1976",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1975",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1974",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1973",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1972",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1971",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1970",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1969",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1968",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1967",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1966",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1965",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1964",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1963",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1962",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "GB.XPD.RSDV.GD.ZS",
+        "value": "Research and development expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    }
+  ]
+]
