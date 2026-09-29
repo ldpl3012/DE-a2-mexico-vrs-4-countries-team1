@@ -20,6 +20,9 @@
 | Mexico: 83.1% of people use the internet (2024), 4th of 5 — `E4` | Coverage and use are not the same (Part I §10); the missing households are concentrated in specific places |
 | 21.7% of Mexican households (**≈8.6 million**) had no internet at home in 2025. Rural internet use is 75.2% vs 88.9% urban; households with internet range from 90.5% in Mexico City to 53.9% in Chiapas — `E5`–`E8` | **The gap is geographic.** A decision tool has to work at the level of localities, not national averages |
 
+
+![Fixed broadband subscriptions per 100 people, 2014–2024: Mexico, Brazil and peers](charts/fixed_broadband_2014_2024.svg)
+
 ---
 
 ## 1. Transformation of the five sectors
@@ -59,6 +62,8 @@ Chain: *Technology or digital layer → Data generated → Decision supported*
 ## 3. Digital transformation pipeline
 
 `Phenomenon → Capture → Data → Analysis → Decision → Action` (diagram: [`diagrams/pipeline.svg`](diagrams/pipeline.svg))
+
+![ConectaMapa digital transformation pipeline](diagrams/pipeline.svg)
 
 | Stage | What happens |
 |---|---|
@@ -237,10 +242,12 @@ Each level needs more data, more assumptions and more validation than the previo
 
 ## 12. Artificial intelligence and energy
 
+**The energy system in both directions: Mexico's national electricity grid.** It is the same grid that powers the rural networks ConectaMapa helps deploy.
+
 | Direction | Mechanism | Example |
 |---|---|---|
-| **AI can improve an energy system** | Machine-learning traffic forecasts let a network switch radio equipment into low-power/sleep modes during low-traffic hours; the same forecasting logic helps grid operators anticipate demand | An ISP serving several localities uses predicted night-time traffic to power down idle radio equipment, cutting its electricity bill and its backup-battery needs |
-| **AI growth increases demands on the same system** | Training and running large models requires data centres with high, constant electricity and cooling needs | The IEA estimates data-centre electricity use at ~415 TWh in 2024 (~1.5% of global electricity), projected to ~945 TWh by 2030 (`E10`). In our project, answering every registration with a large language-model chatbot would add compute and energy cost for little benefit; a simple form is enough |
+| **AI can improve the grid** | Machine-learning forecasts of electricity demand and of solar and wind output let the grid operator schedule generation and reserves more precisely, integrate more renewables and detect failures earlier. On the demand side, large loads can adapt to forecasts | (a) A grid operator such as CENACE (Mexico's national energy control centre) could use AI forecasts of next-day demand and solar output to keep fewer fossil plants running as reserve. (b) Close to our project: ISPs connected to the same grid use traffic forecasts to put idle radio equipment into sleep mode at night, which cuts their load on the grid and their backup-battery needs |
+| **AI growth raises demands on the same grid** | AI data centres add large loads that run 24/7, plus cooling, and require new generation and transmission capacity | The IEA estimates that a typical AI-focused data centre uses as much electricity as 100,000 households, and the largest under construction 20 times as much (`E15`). Global data-centre use was ~415 TWh in 2024 and is projected to reach ~945 TWh by 2030 (`E10`). A new AI data centre connected to Mexico's grid competes for the same generation and transmission capacity that rural localities, and the ISP networks we help build, depend on. In our own design we avoid adding to that load: registration uses a simple form, not a large language-model chatbot |
 
 ---
 
