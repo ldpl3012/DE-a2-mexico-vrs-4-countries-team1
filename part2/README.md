@@ -10,20 +10,20 @@ Part II builds on the Part I diagnosis: Mexico has 21.7 fixed broadband subscrip
 |---|---|
 | [`brief/Team1_Digital_Economy_Brief.pdf`](brief/Team1_Digital_Economy_Brief.pdf) | **Digital Economy Brief** (2 pages). Source: [`brief/brief.html`](brief/brief.html) |
 | [`proposal.md`](proposal.md) | Full working document with all 13 sections; the brief is condensed from it |
-| [`evidence_log.csv`](evidence_log.csv) | Every external figure used, with source, period, URL and access date (IDs `E1`–`E11`) |
+| [`evidence_log.csv`](evidence_log.csv) | Every external figure used, with source, period, URL and access date (IDs `E1`–`E14`) |
 | [`diagrams/pipeline.svg`](diagrams/pipeline.svg) | Pipeline diagram (full version); `pipeline_compact.svg` is the version used in the brief |
 | [`charts/`](charts/) | Evidence chart: fixed broadband 2014–2024, Mexico vs Brazil and peers (full + brief versions) |
 | [`build_charts.py`](build_charts.py) | Rebuilds the charts from the Part I raw data (`python part2/build_charts.py`, standard library only) |
-| [`wipo/`](wipo/) | Mandatory WIPO IP Statistics query: exact query, link and evidence |
+| [`wipo/`](wipo/) | Mandatory WIPO IP Statistics query: exact query, screenshots, data (CSV) and results |
 
 ## Deliverables checklist
 
-- [x] Digital Economy Brief, PDF, max. 2 pages (draft; the WIPO figures are still pending)
+- [x] Digital Economy Brief, PDF, max. 2 pages (draft for team review)
 - [x] Digital transformation pipeline diagram
 - [x] Comparative matrix of the five sectors (`proposal.md` §1)
 - [x] Four-level analysis: descriptive, diagnostic, predictive, prescriptive (`proposal.md` §4, brief §4)
-- [x] Business model, platform, network effects and scalability (`proposal.md` §6–§8, brief §5–§7)
-- [ ] **Evidence of the WIPO query**: the query is set up, but the WIPO server returned an error on 2026-09-29 (see `wipo/README.md`)
+- [x] Business model, platform, network effects and scalability (`proposal.md` §6–§8, brief §6–§8)
+- [x] Evidence of the WIPO query (`wipo/`: query, 5 screenshots, data CSV, results; brief §5, `proposal.md` §10)
 - [x] Complementary visualization (fixed broadband, Mexico vs Brazil)
 
 ## Regenerating the brief PDF

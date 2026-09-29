@@ -30,6 +30,9 @@ td{padding:3px 5px;border-bottom:1px solid var(--line);vertical-align:top}
 tbody tr:nth-child(even) td{background:var(--lav)}
 td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
 .box{background:var(--lav);border-radius:6px;padding:6px 9px;margin:4px 0}
+.mini td:first-child{font-weight:400;color:var(--ink)}
+.mini .num{text-align:right;font-variant-numeric:tabular-nums}
+.mini tr.hl td{background:#FDF1F6;font-weight:700;color:var(--purple-dark)}
 .pending{background:#FFF4E5;border:1px dashed #E8A33D;border-radius:6px;padding:4px 8px;font-size:8pt}
 .src{font-size:7.1pt;color:var(--ink2);line-height:1.3;margin-top:5px}
 .pagebreak{break-before:page}
@@ -73,11 +76,31 @@ td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
     <tr><td>Prescriptive</td><td>With budget B and crews, which localities and prices?</td><td>Integer optimization, scenarios</td><td>Quarterly rollout plan</td></tr>
   </tbody>
 </table>
-<p>A demand map shows <i>stated</i> interest; prediction must learn how many registrants actually pay, and prescription adds constraints and an objective.</p>
+<p>A demand map shows <i>stated</i> interest; prediction must learn who actually pays; prescription adds constraints and an objective.</p>
+
+<h2 style="margin-top:6px">5. Patents and innovation (WIPO query)</h2>
+<div class="row">
+  <div class="col" style="flex:1.35">
+    <p>Four digital fields (telecommunications, digital communication, computer technology, IT methods for management), by applicant's origin. <b>Mexico is last and falling:</b> ≈89 publications a year in 2021–2023, −21% vs 2014–2016; South Korea publishes ≈1,500× more per person. Patents protect <b>novel, inventive, industrially applicable</b> technical solutions (LFPPI Art. 48); business methods and software <i>as such</i> are excluded (Art. 47). ConectaMapa's edge is <b>data and network effects, not IP</b>. A possible inventive component is a method that fuses speed tests, census geodata and network-design parameters to estimate a locality's viability. Counts measure invention attempts, not adoption or success.</p>
+  </div>
+  <div class="col">
+    <table class="mini">
+      <thead><tr><th>Origin</th><th class="num">Per year</th><th class="num">Per million people</th></tr></thead>
+      <tbody>
+        <tr><td>South Korea</td><td class="num">54,245</td><td class="num">1,048.9</td></tr>
+        <tr><td>Finland</td><td class="num">3,941</td><td class="num">708.7</td></tr>
+        <tr><td>India</td><td class="num">5,501</td><td class="num">3.9</td></tr>
+        <tr><td>Brazil</td><td class="num">315</td><td class="num">1.5</td></tr>
+        <tr class="hl"><td>Mexico</td><td class="num">89</td><td class="num">0.7</td></tr>
+      </tbody>
+    </table>
+    <p class="cap">2021–2023 average, four fields (2024 incomplete). WIPO IP Statistics, consulted 29 Sep 2026; population: World Bank. Evidence: <code>part2/wipo/</code>.</p>
+  </div>
+</div>
 
 <div class="row">
   <div class="col">
-    <h2>5. Business model</h2>
+    <h2>6. Business model</h2>
     <ul>
       <li><b>Value creation:</b> households get visibility and a connection; ISPs get validated demand, lower risk and cheaper acquisition; municipalities get evidence for co-investment.</li>
       <li><b>Value delivery:</b> free registration via web, WhatsApp or SMS (plus field agents); dashboard with demand map and forecasts for ISPs; aggregated reports for government.</li>
@@ -86,7 +109,7 @@ td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
     <p><b>Model:</b> marketplace + SaaS + data-driven. The price-sensitive side (households) is free; the side that benefits and can pay (ISPs) pays. We do not use advertising, because it would erode trust and privacy.</p>
   </div>
   <div class="col">
-    <h2>6. Platform and network effects</h2>
+    <h2>7. Platform and network effects</h2>
     <p><b>Multi-sided platform:</b> households ↔ ISPs, with municipalities as co-funders. <b>Rules:</b> one verified registration per household; ISPs publish price, speed and date before seeing contacts; consent-based data sharing, no resale; post-install speed test and ratings.</p>
     <ul>
       <li><b>Indirect, positive:</b> more households → more ISPs → more competition and coverage → more households.</li>
@@ -97,10 +120,10 @@ td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
   </div>
 </div>
 
-<h2>7. Scalability: what if users grow 10×?</h2>
+<h2>8. Scalability: what if users grow 10×?</h2>
 <p><b>Grows slowly:</b> cloud compute and storage, software, model training. <b>Keeps growing:</b> SMS/WhatsApp messages, field agents in hard-to-reach areas, support, fraud verification, B2B sales, data-protection compliance. The digital layer scales; <b>the physical networks ISPs must build do not</b>. Scalability is low marginal cost, not zero cost.</p>
 
-<h2>8. Data quality and responsibility</h2>
+<h2>9. Data quality and responsibility</h2>
 <ul>
   <li><b>Quality:</b> self-reported willingness to pay is inflated, and speed tests depend on the device → take-up is overestimated.</li>
   <li><b>Representativeness:</b> households without internet are the least able to register online (rural internet use is 75.2% vs 88.9% urban), so offline channels are required or the platform reproduces the divide.</li>
@@ -109,17 +132,10 @@ td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
   <li><b>Correlation ≠ causation:</b> localities with more registrations show higher take-up, but income or community organization may drive both. Testing needs comparable localities with and without campaigns.</li>
 </ul>
 
+<h2>10. Digital is material · AI and energy</h2>
 <div class="row">
-  <div class="col">
-    <h2>9. Patents and innovation</h2>
-    <p>A patent protects a technical solution that is <b>novel, inventive and industrially applicable</b> (LFPPI Art. 48). Business methods and software <i>as such</i> are excluded (Art. 47). A possible inventive component is a method that combines crowdsourced speed tests, census geodata and network-design parameters to estimate a locality's viability. Its areas are <b>computer technology</b> for the platform and <b>telecommunications / digital communication</b> for the networks it helps deploy. Patent counts measure invention attempts, not adoption or economic success.</p>
-    <p class="pending"><b>WIPO query (pending):</b> patent publications by technology (fields 3, 4, 6, 7) by origin, MX/KR/FI/BR/IN, 2014–2024. On 29 Sep 2026 the WIPO server returned an error; evidence is in <code>part2/wipo/</code>.</p>
-  </div>
-  <div class="col">
-    <h2>10. Digital is material · AI and energy</h2>
-    <p><b>Physical elements:</b> household phones; cloud servers with cooling; fibre, optical terminals or radios and towers; electricity and backup power. <b>Material cost:</b> fibre per km plus equipment per home. <b>Energy cost:</b> network equipment runs 24/7, and rural areas need batteries, solar or diesel. <b>Externality:</b> e-waste from replaced routers and emissions from diesel backup.</p>
-    <p><b>AI helps:</b> traffic forecasts let an ISP power down idle radios at night. <b>AI demands:</b> data centres used about 415 TWh in 2024 and may reach about 945 TWh by 2030 (IEA). A simple form beats a large chatbot for registration.</p>
-  </div>
+  <div class="col"><p><b>Physical elements:</b> household phones; cloud servers with cooling; fibre, optical terminals or radios and towers; electricity and backup power. <b>Material cost:</b> fibre per km plus equipment per home. <b>Energy cost:</b> network equipment runs 24/7, and rural areas need batteries, solar or diesel. <b>Externality:</b> e-waste from replaced routers and emissions from diesel backup.</p></div>
+  <div class="col"><p><b>AI helps:</b> traffic forecasts let an ISP power down idle radios at night. <b>AI demands:</b> data centres used about 415 TWh in 2024 and may reach about 945 TWh by 2030 (IEA). A simple registration form beats a large chatbot: same result, far less compute and energy.</p></div>
 </div>
 
 <h2>11. Final proposal</h2>
@@ -135,7 +151,7 @@ td:first-child{font-weight:700;color:var(--purple-dark);white-space:nowrap}
   </tbody>
 </table>
 
-<p class="src"><b>Sources:</b> ITU via World Bank WDI (IT.NET.BBND.P2, IT.NET.USER.ZS), Part I raw data · INEGI, ENDUTIH 2025 (Reporte de Resultados 19/26, 16 Jun 2026) · Anatel, Relatório de Monitoramento da Competição 4T2025 · IEA, Energy and AI (2025) · Ley Federal de Protección a la Propiedad Industrial (2020), Arts. 47–48 · WIPO IP Statistics Data Center (query pending). Full traceability: <code>part2/evidence_log.csv</code>.</p>
+<p class="src"><b>Sources:</b> ITU via World Bank WDI (IT.NET.BBND.P2, IT.NET.USER.ZS), Part I raw data · INEGI, ENDUTIH 2025 (Reporte de Resultados 19/26, 16 Jun 2026) · Anatel, Relatório de Monitoramento da Competição 4T2025 · IEA, Energy and AI (2025) · Ley Federal de Protección a la Propiedad Industrial (2020), Arts. 47–48 · WIPO IP Statistics Data Center, 4a Patent publications by technology (consulted 29 Sep 2026) · World Bank WDI, population (SP.POP.TOTL). Full traceability: <code>part2/evidence_log.csv</code>.</p>
 
 </body>
 </html>

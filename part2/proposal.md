@@ -182,7 +182,23 @@ Each level needs more data, more assumptions and more validation than the previo
 
 ## 10. Patents and innovation
 
-> The WIPO query is **mandatory** and is still pending. Evidence (screenshots + CSV export) goes in `part2/wipo/`. Plan: WIPO IP Statistics Data Center → patent applications by technology field (Telecommunications, Digital communication, Computer technology, IT methods for management) → Mexico vs South Korea, Finland, Brazil and India.
+**WIPO query (mandatory).**
+- *Source:* WIPO IP Statistics Data Center, indicator "4a – Patent publications by technology", by applicant's origin, 2014–2024.
+- *Fields:* the four closest to our proposal: Telecommunications, Digital communication, Computer technology and IT methods for management.
+- *Evidence:* screenshots, data and the exact query are in [`wipo/`](wipo/) (`E12`–`E14`).
+
+| Origin | Publications per year, 2021–2023 avg. | Per million people | Telecom + digital communication per million |
+|---|---|---|---|
+| South Korea | 54,245 | 1,048.9 | 371.3 |
+| Finland | 3,941 | 708.7 | 572.5 |
+| India | 5,501 | 3.9 | 1.1 |
+| Brazil | 315 | 1.5 | 0.4 |
+| **Mexico** | **89** | **0.7** | **0.2** |
+
+- **Mexico is last, and falling.** It has about 89 publications a year in these four fields, 21% fewer than in 2014–2016 (≈113). South Korea publishes about **1,500 times more per person**.
+- Finland leads in telecom + digital communication per person, which fits its specialization in network equipment.
+- **2024 is left out of the averages** because Brazil, India and Mexico show drops that are most likely incomplete data for the latest year.
+- **Implication for ConectaMapa:** Mexico's digital sector does not compete through patents today. Our proposal's advantage would come from **data and network effects** rather than from intellectual property (see Q3 and Q5 below).
 
 1. **What is a patent and what does it protect?** An exclusive right granted by the state over an invention (a product or process that offers a new technical solution to a problem) for a limited period, generally 20 years, in exchange for publicly disclosing how it works. It protects the **technical solution**, not ideas, business models or data as such.
 2. **Novelty, inventive activity, industrial application.**
@@ -250,4 +266,5 @@ See [`evidence_log.csv`](evidence_log.csv) for values, periods and access dates.
 - Anatel, *Relatório de Monitoramento da Competição — 4T2025*.
 - IEA, *Energy and AI* (2025).
 - *Ley Federal de Protección a la Propiedad Industrial* (Mexico, 2020), Arts. 47–48.
-- WIPO IP Statistics Data Center — *query pending*.
+- WIPO IP Statistics Data Center, *4a – Patent publications by technology* (database updated May 2026; consulted 29 September 2026) — evidence in [`wipo/`](wipo/).
+- World Bank WDI, population (`SP.POP.TOTL`), used for per-million figures.
