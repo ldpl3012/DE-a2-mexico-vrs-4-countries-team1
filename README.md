@@ -1,6 +1,9 @@
 # Team 1 — Digital Economy Intelligence Lab
 
-This repository delivers Activity 2, Part I for **Mexico, South Korea, Finland, Brazil, and India**, focused on telecommunications.
+**Team 1:** Valeria Hernandez, Lorena Perez, Gustavo Fuentes, Jose Pech, Julio de Aquino, Ricardo Horta  
+**Professor:** Jose Francisco Perez Alcocer
+
+This repository delivers Activity 2, Part I for **Mexico, South Korea, Finland, Brazil, and India**, focused on telecommunications. Part II (From Data to Digital Transformation) is in [`part2/`](part2/).
 
 Run `python build_analysis.py` from the project root (standard library only). It downloads official observations and indicator metadata to `data/raw/` if they are missing, records access times in `data/download_log.csv`, creates `data/processed/digital_economy_clean.csv`, and rebuilds `source_log.csv`, `data_dictionary.csv` and the dashboard.
 

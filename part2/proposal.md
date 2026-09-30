@@ -2,7 +2,9 @@
 
 **Activity 2 · Part II — From Data to Digital Transformation · Team 1 · Sector: Telecommunications**
 
-> Working document (draft for team review). Every section of the Part II brief comes from here. Figures are traceable to [`evidence_log.csv`](evidence_log.csv) (IDs such as `E5`). Numbers marked *illustrative* are hypothetical examples, not observed data.
+**Team:** Valeria Hernandez, Lorena Perez, Gustavo Fuentes, Jose Pech, Julio de Aquino, Ricardo Horta · **Professor:** Jose Francisco Perez Alcocer
+
+> Source document for the annex. Every section of the Part II brief comes from here. Figures are traceable to [`evidence_log.csv`](evidence_log.csv) (IDs such as `E5`). Numbers marked *illustrative* are hypothetical examples, not observed data.
 
 **Guiding question.** How can an organization turn data and digital capabilities into a concrete decision that produces economic, productive or social value in the telecommunications sector?
 
