@@ -1,6 +1,8 @@
 # Part II — From Data to Digital Transformation
 
-Team 1 · Telecommunications · Proposal: **ConectaMapa**, a connectivity demand map that helps regional ISPs decide which underserved locality to connect next.
+**Team 1:** Valeria Hernandez, Lorena Perez, Gustavo Fuentes, Jose Pech, Julio de Aquino, Ricardo Horta · **Professor:** Jose Francisco Perez Alcocer
+
+Telecommunications · Proposal: **ConectaMapa**, a connectivity demand map that helps regional ISPs decide which underserved locality to connect next.
 
 Part II builds on the Part I diagnosis: Mexico has 21.7 fixed broadband subscriptions per 100 people, 4th of 5. Part I files stay at the repository root; everything for Part II lives in this folder.
 
@@ -19,7 +21,7 @@ Part II builds on the Part I diagnosis: Mexico has 21.7 fixed broadband subscrip
 
 ## Deliverables checklist
 
-- [x] Digital Economy Brief, PDF, max. 2 pages (draft for team review)
+- [x] Digital Economy Brief, PDF, max. 2 pages
 - [x] Digital transformation pipeline diagram
 - [x] Comparative matrix of the five sectors (annex §1)
 - [x] Four-level analysis: descriptive, diagnostic, predictive, prescriptive (annex §4, brief §4)
@@ -32,5 +34,3 @@ Part II builds on the Part I diagnosis: Mexico has 21.7 fixed broadband subscrip
 1. `python part2/build_charts.py` (charts) and `python part2/build_annex.py` (annex HTML from `proposal.md`; needs [pandoc](https://pandoc.org/)).
 2. Open `part2/brief/brief.html` and `part2/annex/annex.html` in Chrome → Print → Save as PDF (Letter, no headers/footers). Or run it headless, e.g.:
    `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --no-pdf-header-footer --allow-file-access-from-files --print-to-pdf=part2/annex/Team1_Part2_Annex.pdf part2/annex/annex.html`
-
-The drafts still need team review before they are final.
