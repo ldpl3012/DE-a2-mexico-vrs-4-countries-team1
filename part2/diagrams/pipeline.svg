@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" font-family="Arial, Helvetica, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">ConectaMapa — digital transformation pipeline</title>
+  <desc id="d">Six stages from phenomenon to action, with a feedback loop from action back to analysis, and the four levels of analysis.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#655D7A"/>
+    </marker>
+    <marker id="arrowPink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#C9508A"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="410" fill="#FFFFFF"/>
+
+  <text x="25" y="38" font-size="20" font-weight="700" fill="#241854">ConectaMapa — digital transformation pipeline</text>
+  <text x="25" y="62" font-size="13" fill="#655D7A">Team 1 · Telecommunications · Phenomenon → Capture → Data → Analysis → Decision → Action</text>
+
+  <!-- Stage boxes: x = 25 + i*196, width 170 -->
+  <g font-size="11.5" fill="#211A35">
+    <!-- 1 Phenomenon -->
+    <rect x="25" y="90" width="170" height="150" rx="10" fill="#F5F2FB" stroke="#E4DEF2"/>
+    <path d="M25,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#4B2E83"/>
+    <text x="110" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">1 · Phenomenon</text>
+    <text x="36" y="152">Unmet demand for fixed</text>
+    <text x="36" y="170">broadband in underserved</text>
+    <text x="36" y="188">localities, invisible</text>
+    <text x="36" y="206">to ISPs</text>
+
+    <!-- 2 Capture -->
+    <rect x="221" y="90" width="170" height="150" rx="10" fill="#F5F2FB" stroke="#E4DEF2"/>
+    <path d="M221,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#4B2E83"/>
+    <text x="306" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">2 · Capture</text>
+    <text x="232" y="152">Web, WhatsApp, SMS</text>
+    <text x="232" y="170">+ field agents (offline)</text>
+    <text x="232" y="188">Location, speed test,</text>
+    <text x="232" y="206">willingness to pay</text>
+
+    <!-- 3 Data -->
+    <rect x="417" y="90" width="170" height="150" rx="10" fill="#F5F2FB" stroke="#E4DEF2"/>
+    <path d="M417,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#4B2E83"/>
+    <text x="502" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">3 · Data</text>
+    <text x="428" y="152">Verified demand records</text>
+    <text x="428" y="170">+ INEGI census (locality)</text>
+    <text x="428" y="188">+ CONAPO marginalization</text>
+    <text x="428" y="206">+ open speed-test data</text>
+
+    <!-- 4 Analysis -->
+    <rect x="613" y="90" width="170" height="150" rx="10" fill="#F5F2FB" stroke="#E4DEF2"/>
+    <path d="M613,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#4B2E83"/>
+    <text x="698" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">4 · Analysis</text>
+    <text x="624" y="152">Demand density</text>
+    <text x="624" y="170">Predicted take-up</text>
+    <text x="624" y="188">Cost per subscriber</text>
+    <text x="624" y="206">Payback per locality</text>
+
+    <!-- 5 Decision -->
+    <rect x="809" y="90" width="170" height="150" rx="10" fill="#FDF1F6" stroke="#E9AFC9"/>
+    <path d="M809,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#C9508A"/>
+    <text x="894" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">5 · Decision</text>
+    <text x="820" y="152">ISP: which locality</text>
+    <text x="820" y="170">next, at what price</text>
+    <text x="820" y="188">Municipality: where</text>
+    <text x="820" y="206">to co-invest</text>
+
+    <!-- 6 Action -->
+    <rect x="1005" y="90" width="170" height="150" rx="10" fill="#FDF1F6" stroke="#E9AFC9"/>
+    <path d="M1005,100 a10,10 0 0 1 10,-10 h150 a10,10 0 0 1 10,10 v26 h-170 z" fill="#C9508A"/>
+    <text x="1090" y="114" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">6 · Action</text>
+    <text x="1016" y="152">Build the network</text>
+    <text x="1016" y="170">Pre-sale to registered</text>
+    <text x="1016" y="188">households</text>
+    <text x="1016" y="206">Schedule installations</text>
+  </g>
+
+  <!-- Forward arrows -->
+  <g stroke="#655D7A" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <line x1="197" y1="165" x2="218" y2="165"/>
+    <line x1="393" y1="165" x2="414" y2="165"/>
+    <line x1="589" y1="165" x2="610" y2="165"/>
+    <line x1="785" y1="165" x2="806" y2="165"/>
+    <line x1="981" y1="165" x2="1002" y2="165"/>
+  </g>
+
+  <!-- Feedback loop: Action -> Analysis -->
+  <path d="M1090,242 V285 H698 V246" stroke="#C9508A" stroke-width="2" stroke-dasharray="6 4" fill="none" marker-end="url(#arrowPink)"/>
+  <text x="894" y="305" text-anchor="middle" font-size="12" font-style="italic" fill="#C9508A">Feedback: actual subscriptions after each build recalibrate the take-up model</text>
+
+  <!-- Analysis levels band -->
+  <rect x="25" y="330" width="1150" height="56" rx="10" fill="#F5F2FB" stroke="#E4DEF2"/>
+  <text x="45" y="354" font-size="12.5" font-weight="700" fill="#4B2E83">Four levels of analysis</text>
+  <text x="45" y="374" font-size="12" fill="#211A35"><tspan font-weight="700">Descriptive</tspan>: demand map   ·   <tspan font-weight="700">Diagnostic</tspan>: no coverage vs poor quality vs price   ·   <tspan font-weight="700">Predictive</tspan>: take-up per locality   ·   <tspan font-weight="700">Prescriptive</tspan>: rollout plan under budget</text>
+</svg>

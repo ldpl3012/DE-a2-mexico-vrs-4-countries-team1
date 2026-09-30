@@ -1,0 +1,948 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ConectaMapa — Annex to the Digital Economy Brief (Team 1)</title>
+<style>
+@page { size: letter; margin: 0.65in 0.7in 0.7in;
+  @bottom-center { content: "Team 1 · Annex to the Digital Economy Brief · Activity 2 Part II   |   " counter(page); white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #6B6B6B; }
+}
+:root{ --purple:#4B2E83; --purple-dark:#241854; --pink:#C9508A; --lav:#F5F2FB; --ink:#211A35; --ink2:#52514e; --line:#E4DEF2; }
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);font-size:9.6pt;line-height:1.4;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.eyebrow{font-size:8pt;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--pink)}
+h1.title{font-size:19pt;line-height:1.15;color:var(--purple-dark);margin:4px 0 4px}
+.subtitle{font-size:10.5pt;color:var(--ink2);margin:0 0 10px}
+.contents{background:var(--lav);border-radius:8px;padding:9px 13px;margin:0 0 14px;font-size:9pt}
+.contents b{color:var(--purple-dark)}
+.contents ol{margin:4px 0 0;padding-left:18px;columns:2;column-gap:26px}
+h2{font-size:12.5pt;color:var(--purple);margin:15px 0 5px;padding-left:7px;border-left:3px solid var(--pink);break-after:avoid}
+h3{font-size:10.5pt;color:var(--purple-dark);margin:12px 0 4px;break-after:avoid}
+p{margin:0 0 6px}
+ul,ol{margin:0 0 6px;padding-left:18px} li{margin:0 0 2px}
+strong{color:var(--purple-dark)}
+code{font-family:Menlo,Consolas,monospace;font-size:8.4pt;background:var(--lav);padding:0 3px;border-radius:3px}
+a{color:var(--purple)}
+hr{border:none;border-top:1px solid var(--line);margin:10px 0}
+img.compact{border:none;border-radius:0;margin:10px auto 12px}
+blockquote{margin:6px 0;padding:6px 12px;background:#FFF4E5;border-left:3px solid #E8A33D;border-radius:0 6px 6px 0}
+table{width:100%;border-collapse:collapse;font-size:8.4pt;margin:4px 0 8px}
+thead{display:table-header-group}
+tr{break-inside:avoid}
+th{background:var(--purple);color:#fff;text-align:left;padding:4px 6px;font-weight:700;vertical-align:bottom}
+td{padding:4px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:nth-child(even) td{background:var(--lav)}
+img{max-width:100%;display:block;margin:8px auto 10px;border:1px solid var(--line);border-radius:6px;break-inside:avoid}
+</style>
+</head>
+<body>
+
+<div class="eyebrow">Activity 2 · Part II · Team 1 · Telecommunications</div>
+<h1 class="title">ConectaMapa — Annex to the Digital Economy Brief</h1>
+<p class="subtitle">Full analysis behind the 2-page brief: a connectivity demand map that helps regional ISPs decide which underserved locality to connect next.</p>
+
+<div class="contents">
+  <b>Where each Part II deliverable is</b>
+  <ol start="0">
+    <li>From the Part I diagnosis to this proposal</li>
+    <li><b>Comparative matrix of the five sectors</b></li>
+    <li>Definition of the sector problem</li>
+    <li><b>Digital transformation pipeline (diagram)</b></li>
+    <li><b>Analysis of the four levels</b></li>
+    <li>From data to action</li>
+    <li><b>Business model</b></li>
+    <li><b>Platform and network effects</b></li>
+    <li><b>Scalability</b></li>
+    <li>Data quality and responsibility</li>
+    <li><b>Patents and innovation (WIPO evidence)</b></li>
+    <li>Digital does not mean immaterial</li>
+    <li>Artificial intelligence and energy</li>
+    <li>Final proposal</li>
+  </ol>
+  <p style="margin:6px 0 0">Every figure is traceable to <code>part2/evidence_log.csv</code> (IDs such as <code>E5</code>) in the team repository. Numbers marked <i>illustrative</i> are hypothetical examples, not observed data.</p>
+</div>
+
+<p><strong>Guiding question.</strong> How can an organization turn data
+and digital capabilities into a concrete decision that produces
+economic, productive or social value in the telecommunications
+sector?</p>
+<p><strong>Our answer in one line.</strong> Regional internet service
+providers (ISPs) in Mexico decide where to extend fixed broadband almost
+blind to real demand. ConectaMapa lets households and small businesses
+register unmet demand, turns it into a locality-level demand map, and
+helps ISPs decide <em>which locality to connect next and at what
+price</em>.</p>
+<hr />
+<h2 id="0-from-the-part-i-diagnosis-to-this-proposal">0. From the Part I
+diagnosis to this proposal</h2>
+<table>
+<thead>
+<tr>
+<th>Part I finding</th>
+<th>Why it matters here</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mexico has <strong>21.7 fixed broadband subscriptions per 100
+people</strong> (2024), 4th of 5, less than half of South Korea (47.8) —
+<code>E1</code>, <code>E2</code></td>
+<td>Fixed broadband is the most concrete connectivity gap and a
+telecom-specific one</td>
+</tr>
+<tr>
+<td>In 2014 Mexico and Brazil were almost tied (10.9 vs 12.0). Between
+2021 and 2024 Brazil added <strong>+4.3 points</strong> vs Mexico's
+<strong>+2.4</strong> — <code>E3</code></td>
+<td>Brazil is the most useful comparison for fixed broadband</td>
+</tr>
+<tr>
+<td>In Brazil, small regional providers hold <strong>63.3% of fixed
+broadband accesses</strong> (end of 2025) — <code>E9</code></td>
+<td>Regional ISPs are a documented channel for expanding fixed broadband
+in hard-to-reach areas. <em>This is an association, not proof that small
+ISPs caused Brazil's growth</em> (see §9).</td>
+</tr>
+<tr>
+<td>Mexico: 83.1% of people use the internet (2024), 4th of 5 —
+<code>E4</code></td>
+<td>Coverage and use are not the same (Part I §10); the missing
+households are concentrated in specific places</td>
+</tr>
+<tr>
+<td>21.7% of Mexican households (<strong>≈8.6 million</strong>) had no
+internet at home in 2025. Rural internet use is 75.2% vs 88.9% urban;
+households with internet range from 90.5% in Mexico City to 53.9% in
+Chiapas — <code>E5</code>–<code>E8</code></td>
+<td><strong>The gap is geographic.</strong> A decision tool has to work
+at the level of localities, not national averages</td>
+</tr>
+</tbody>
+</table>
+<p><img src="../charts/fixed_broadband_2014_2024.svg"
+alt="Fixed broadband subscriptions per 100 people, 2014–2024: Mexico, Brazil and peers" /></p>
+<hr />
+<h2 id="1-transformation-of-the-five-sectors">1. Transformation of the
+five sectors</h2>
+<p>Chain: <em>Technology or digital layer → Data generated → Decision
+supported</em></p>
+<table>
+<thead>
+<tr>
+<th>Sector</th>
+<th>Technology / digital layer</th>
+<th>Data generated</th>
+<th>Decision supported</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Telecommunications</strong></td>
+<td>Network telemetry and crowdsourced speed tests</td>
+<td>Throughput, latency and outages by location and hour; subscribers
+per area</td>
+<td>Where to expand or upgrade network capacity next</td>
+</tr>
+<tr>
+<td><strong>Health</strong></td>
+<td>Telemedicine and electronic health records</td>
+<td>Consultations, diagnoses, waiting times, referral outcomes</td>
+<td>Which rural clinics get specialist tele-consultation slots; which
+patients are referred first</td>
+</tr>
+<tr>
+<td><strong>Agriculture</strong></td>
+<td>Soil-moisture IoT sensors and satellite imagery (vegetation
+indices)</td>
+<td>Soil-moisture time series; crop health per plot</td>
+<td>When and how much to irrigate or fertilize each plot</td>
+</tr>
+<tr>
+<td><strong>Science</strong></td>
+<td>Shared high-performance / cloud computing and open research-data
+repositories</td>
+<td>Simulation outputs, experimental datasets, compute-usage logs</td>
+<td>How to allocate compute time and funding across research
+projects</td>
+</tr>
+<tr>
+<td><strong>Energy</strong></td>
+<td>Smart meters and grid supervisory systems (SCADA)</td>
+<td>15-minute load curves; outage events</td>
+<td>Demand forecasting, where to reinforce transformers, time-of-use
+tariffs</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cross-sector insight.</strong> Telecommunications is the
+<em>enabling layer</em> of the other four. Telemedicine, farm sensors,
+shared research computing and smart meters all need connectivity where
+the activity happens. Closing a fixed-broadband gap therefore helps
+other sectors too; this is part of why we chose a telecom problem that
+sits "upstream".</p>
+<hr />
+<h2 id="2-definition-of-the-sector-problem">2. Definition of the sector
+problem</h2>
+<p><strong>Problem.</strong> Regional ISPs (small fibre or
+fixed-wireless operators) in Mexico decide where to expand fixed
+broadband with little information on real demand in underserved
+localities. The results:</p>
+<ul>
+<li><strong>viable localities stay unserved</strong> because nobody can
+see their demand;</li>
+<li><strong>ISPs take on expansion risk</strong>: they build, and
+take-up is lower than expected.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Phenomenon to observe</strong></td>
+<td>Unmet demand for fixed broadband at the level of a <em>locality</em>
+(INEGI <em>localidad</em>): households and small businesses that want a
+fixed connection, would pay for it, and have no adequate offer</td>
+</tr>
+<tr>
+<td><strong>Actor who decides</strong></td>
+<td>The expansion/commercial manager of a regional ISP. Secondary actor:
+a municipal government deciding where to co-invest (rights of way,
+poles, public buildings)</td>
+</tr>
+<tr>
+<td><strong>Decision</strong></td>
+<td><em>Which locality to connect next quarter, and at what monthly
+price</em></td>
+</tr>
+<tr>
+<td><strong>Information needed</strong></td>
+<td>Registrations per locality and per 100 households; stated
+willingness to pay; current service and measured speed; households and
+electricity per locality (census); distance to the ISP's nearest network
+node; cost per home connected; historical conversion from registration
+to paying subscriber</td>
+</tr>
+<tr>
+<td><strong>Consequence of the decision</strong></td>
+<td><em>Economic:</em> capex that pays back sooner and fewer failed
+builds for the ISP. <em>Social:</em> households gain a stable connection
+for school, work and public services. <em>Productive:</em> small
+businesses can sell and get paid online. Potential scale: ≈8.6 million
+households without internet (<code>E6</code>)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Why this is not a generic statement.</strong> It names a
+specific actor (a regional ISP), a specific decision (the next locality
+and its price), specific data (registrations plus census data) and a
+measurable outcome (take-up and payback time).</p>
+<hr />
+<h2 id="3-digital-transformation-pipeline">3. Digital transformation
+pipeline</h2>
+<p><code>Phenomenon → Capture → Data → Analysis → Decision → Action</code>
+(diagram: <a
+href="https://github.com/ldpl3012/DE-a2-mexico-vrs-4-countries-team1/blob/master/part2/diagrams/pipeline.svg"><code>diagrams/pipeline.svg</code></a>)</p>
+<p><img src="../diagrams/pipeline_compact.svg" class="compact"
+alt="ConectaMapa digital transformation pipeline" /></p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>What happens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Phenomenon</strong></td>
+<td>Households and small businesses in underserved localities want a
+fixed connection, but that demand is invisible to ISPs</td>
+</tr>
+<tr>
+<td><strong>Capture</strong></td>
+<td>Registration through a light web page, WhatsApp or SMS, plus offline
+registration by field agents and community leaders (see §9,
+representativeness). Each registration records: locality (geolocated),
+current service, an in-browser speed test, monthly amount they would
+pay, and main use (school / work / business)</td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td>Geo-referenced demand records, deduplicated and verified (phone
+code), joined with locality data from INEGI's Population and Housing
+Census (households, electricity), the CONAPO marginalization index, and
+open speed-test datasets used as a baseline before the platform has
+users</td>
+</tr>
+<tr>
+<td><strong>Analysis</strong></td>
+<td>Demand density (registrations per 100 households), median
+willingness to pay, predicted take-up, cost per subscriber and payback
+time per locality</td>
+</tr>
+<tr>
+<td><strong>Decision</strong></td>
+<td>The ISP ranks candidate localities and chooses where to build next
+and at what price; a municipality chooses where to co-fund</td>
+</tr>
+<tr>
+<td><strong>Action</strong></td>
+<td>The ISP builds; registered households are notified and offered
+pre-sale; installations are scheduled</td>
+</tr>
+<tr>
+<td><strong>Feedback loop</strong></td>
+<td>Actual subscriptions after each deployment are fed back to
+recalibrate the take-up model, so each round of decisions improves on
+the previous one</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How the information changes a real decision.</strong> Without
+ConectaMapa, an ISP typically expands to the largest nearby town or
+wherever a competitor is absent, based on intuition. With it, a
+<em>smaller locality with high registered demand</em> can move ahead of
+a larger one with little interest. The ranking changes from "where there
+are many people" to "where there are many people who will actually
+subscribe".</p>
+<hr />
+<h2 id="4-analytical-strategy-four-levels">4. Analytical strategy (four
+levels)</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Question</th>
+<th>Data needed</th>
+<th>Possible technique</th>
+<th>Expected result</th>
+<th>Decision supported</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descriptive</strong> — <em>What happened?</em></td>
+<td>How many households registered unmet demand in each locality last
+quarter, and what speeds and prices do they report?</td>
+<td>Registrations, speed tests, census households per locality</td>
+<td>Aggregation, rates per 100 households, geospatial heat maps</td>
+<td>Demand map and ranking by demand density</td>
+<td>Which localities go on the ISP's shortlist for a field survey</td>
+</tr>
+<tr>
+<td><strong>Diagnostic</strong> — <em>Why did it happen?</em></td>
+<td>Why do some localities with an existing provider still show high
+unmet demand?</td>
+<td>Speed tests, existing offers and prices, marginalization index,
+terrain, electricity</td>
+<td>Segmentation, comparison of groups, regression with controls</td>
+<td>Root cause per locality: <strong>no coverage</strong> vs
+<strong>poor quality</strong> vs <strong>price too high</strong></td>
+<td>Whether the answer is a new network, a cheaper plan, or an
+upgrade</td>
+</tr>
+<tr>
+<td><strong>Predictive</strong> — <em>What could happen?</em></td>
+<td>If the ISP builds in locality X, how many households will subscribe
+within six months?</td>
+<td>Historical conversion (registration → subscription) from past
+deployments plus locality features</td>
+<td>Classification/regression (e.g., logistic regression, gradient
+boosting) with validation on held-out deployments and uncertainty
+ranges</td>
+<td>Expected take-up and payback time per locality, with a range</td>
+<td>Go / no-go for each locality</td>
+</tr>
+<tr>
+<td><strong>Prescriptive</strong> — <em>What should be done?</em></td>
+<td>With a capex budget B and limited installation crews, which set of
+localities and prices maximizes subscribers (or net present value) in 12
+months?</td>
+<td>Predictions above plus build costs, crews and budget</td>
+<td>Optimization (knapsack / integer programming) and scenario
+analysis</td>
+<td>Deployment plan and price per locality</td>
+<td>Approving the quarterly rollout plan</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Why a descriptive answer is not a predictive or prescriptive
+answer.</strong></p>
+<ul>
+<li><strong>Descriptive:</strong> a demand map shows <em>stated interest
+in the past</em>.</li>
+<li><strong>Predictive:</strong> it asks what will happen, and stated
+interest is not payment. Registrations overstate real take-up (stated vs
+revealed preference), and the model must learn the conversion rate from
+past deployments.</li>
+<li><strong>Prescriptive:</strong> knowing what will happen still does
+not say what to do, because that depends on constraints (budget, crews)
+and objectives (profit vs coverage).</li>
+</ul>
+<p>Each level needs more data, more assumptions and more validation than
+the previous one.</p>
+<hr />
+<h2 id="5-from-data-to-action">5. From data to action</h2>
+<p><code>Data → Information → Analysis → Finding → Decision → Action</code></p>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>In ConectaMapa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Data captured</strong></td>
+<td>One record per household: locality, measured speed, current
+provider, amount they would pay monthly, main use</td>
+</tr>
+<tr>
+<td><strong>Information</strong></td>
+<td>Per locality: registrations per 100 households, median willingness
+to pay, share with no service vs poor service</td>
+</tr>
+<tr>
+<td><strong>Analysis</strong></td>
+<td>Compare expected revenue (predicted take-up × price) with the cost
+of connecting the locality → payback time</td>
+</tr>
+<tr>
+<td><strong>Finding</strong> <em>(illustrative)</em></td>
+<td>Locality A has 1,200 households and 96 registrations (8 per 100).
+Locality B has 450 households and 90 registrations (20 per 100). B has
+<strong>2.5× the demand density</strong> of A, so its expected cost per
+subscriber is lower even though it is smaller</td>
+</tr>
+<tr>
+<td><strong>Decision</strong></td>
+<td>The ISP moves B ahead of A in its rollout plan, and prices B's plan
+close to the registered median willingness to pay</td>
+</tr>
+<tr>
+<td><strong>Action</strong></td>
+<td>The build starts in B; the 90 registered households get a pre-sale
+offer; A stays on the map and is reconsidered when its registrations
+cross a threshold</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="6-business-model">6. Business model</h2>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Value creation</strong> — what problem, for whom?</td>
+<td><strong>Households and small businesses:</strong> a way to make
+their demand visible and get connected. <strong>Regional ISPs:</strong>
+validated demand that lowers expansion risk and customer-acquisition
+cost. <strong>Municipalities:</strong> evidence on where co-investment
+has the most effect</td>
+</tr>
+<tr>
+<td><strong>Value delivery</strong> — how is value received?</td>
+<td>Households: free registration via web, WhatsApp or SMS, and a
+notification when an ISP commits to their locality. ISPs: a dashboard
+with the demand map, forecasts, and contact with opted-in registrants.
+Municipalities: periodic aggregated reports</td>
+</tr>
+<tr>
+<td><strong>Value capture</strong> — how does ConectaMapa earn?</td>
+<td>(1) <strong>SaaS subscription</strong> for ISPs (demand analytics
+dashboard); (2) <strong>success fee</strong> per registrant who becomes
+a paying subscriber (marketplace commission); (3) <strong>aggregated,
+anonymized reports</strong> for municipalities, state digital agencies
+and infrastructure investors</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Chosen model: marketplace + SaaS + data-driven, with a free
+(subsidized) household side.</strong></p>
+<ul>
+<li><strong>Why:</strong> the platform subsidizes the price-sensitive
+side that creates value for the other (households) and charges the side
+that can pay and benefits directly (ISPs).</li>
+<li><strong>Models discarded:</strong>
+<ul>
+<li>e-commerce: we sell no goods;</li>
+<li>advertising: it would erode trust and conflict with privacy, and a
+low-income audience has little advertising value;</li>
+<li>charging households a subscription or freemium tier: it would
+suppress the very demand signal we need;</li>
+<li>on-demand: there is no service fulfilled in real time.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="7-platform-and-network-effects">7. Platform and network
+effects</h2>
+<p><strong>Is it a digital platform?</strong> Yes. It is a
+<strong>multi-sided platform</strong> that connects <strong>households
+and small businesses (demand)</strong> with <strong>regional ISPs
+(supply)</strong>, with <strong>municipalities</strong> as a third side
+(co-funders).</p>
+<ul>
+<li><strong>Interaction it facilitates:</strong> demand aggregation and
+matching. Households register → a locality crosses a viability threshold
+→ an ISP commits → households are offered the service and
+subscribe.</li>
+<li><strong>Rules needed:</strong>
+<ul>
+<li>one registration per household, verified by a phone code and
+location;</li>
+<li>ISPs must publish price, speed and a deployment date before
+accessing registrants' contact data;</li>
+<li>registrants' personal data are shared only with explicit consent and
+never resold;</li>
+<li>a speed test after installation, plus ratings of the ISP;</li>
+<li>penalties for fake demand (for example, an ISP inflating a rival's
+area).</li>
+</ul></li>
+<li><strong>Data generated by interactions:</strong> geo-referenced
+demand, speed tests, ISP offers, conversion rates, deployment times,
+quality ratings.</li>
+</ul>
+<p><strong>Network effects.</strong></p>
+<ul>
+<li><strong>Indirect (cross-side), positive:</strong> more registered
+households make the platform more valuable to ISPs; more ISPs mean more
+competition and coverage, which attracts more households.</li>
+<li><strong>Direct (same side), positive, for households in the same
+locality:</strong> each neighbour who registers raises the chance that
+the locality crosses the viability threshold ("demand pooling"). The
+value for one household grows with the number of neighbours who
+join.</li>
+<li><strong>Direct (same side), negative, for ISPs:</strong> two ISPs
+competing for the same locality lower each other's value. Rules on
+exclusivity windows or first-commit priority may be needed.</li>
+<li><strong>Limit:</strong> the effects are <strong>local</strong> (per
+locality), not national. That reduces "winner-takes-all" dynamics and
+forces a locality-by-locality start: seed with a partner ISP and
+municipal campaigns to overcome the cold-start problem.</li>
+</ul>
+<hr />
+<h2 id="8-scalability-users-grow-ten-times">8. Scalability (users grow
+ten times)</h2>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>What happens with 10× users</th>
+<th>Cost behaviour</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Infrastructure / compute</strong></td>
+<td>Registrations are small records; forecasts run in batches per
+quarter</td>
+<td>Grows slowly (cloud, sub-linear)</td>
+</tr>
+<tr>
+<td><strong>Storage</strong></td>
+<td>Records and speed tests grow ~10×, but volume stays modest</td>
+<td>Grows slowly</td>
+</tr>
+<tr>
+<td><strong>Networks</strong></td>
+<td>Web traffic is small; <strong>SMS and WhatsApp messages are paid per
+message</strong></td>
+<td>Grows linearly with messages</td>
+</tr>
+<tr>
+<td><strong>Staff</strong></td>
+<td>Core engineering and data team barely grows; <strong>field agents
+for offline registration grow with the number of
+localities</strong></td>
+<td>Mixed: fixed core, variable field work</td>
+</tr>
+<tr>
+<td><strong>User acquisition</strong></td>
+<td>The households we most need are the hardest and most expensive to
+reach (radio, community campaigns); ISPs are acquired through B2B
+sales</td>
+<td>Keeps growing, may even increase per user</td>
+</tr>
+<tr>
+<td><strong>Support</strong></td>
+<td>More questions on WhatsApp, including in Indigenous languages in
+some regions</td>
+<td>Grows almost linearly</td>
+</tr>
+<tr>
+<td><strong>Regulation</strong></td>
+<td>More personal data → stronger duties under Mexican data-protection
+law (privacy notices, access/correction/deletion rights, security)</td>
+<td>Step increases (audits, compliance staff)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Is it scalable?</strong> The <strong>digital layer
+is</strong>: matching, analytics and dashboards are software with low
+marginal cost. But ConectaMapa's value depends on ISPs
+<em>physically</em> building networks, and that does
+<strong>not</strong> scale like software. The platform is asset-light;
+the problem it serves is not.</li>
+<li><strong>Costs that grow slowly:</strong> cloud, software
+development, model training, dashboards.</li>
+<li><strong>Costs that keep growing:</strong> messaging, field agents,
+support, verification against fake demand, B2B sales, compliance.</li>
+<li><strong>Why scalability ≠ zero cost:</strong> marginal cost is low
+but never zero (every message, verification and support ticket costs
+money). Some costs rise in steps (security, legal compliance), and the
+physical network behind the service has large costs per home
+connected.</li>
+</ul>
+<hr />
+<h2 id="9-data-quality-and-responsibility">9. Data quality and
+responsibility</h2>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Possible problem</th>
+<th>How it could distort the decision</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Data quality</strong></td>
+<td>Willingness to pay is self-reported and tends to be inflated; speed
+tests depend on the device and Wi-Fi; duplicate or fake
+registrations</td>
+<td>Overestimated take-up → the ISP builds where demand is weaker than
+it looked</td>
+</tr>
+<tr>
+<td><strong>Representativeness</strong></td>
+<td>Households <strong>without</strong> internet are the least able to
+register online, so the map over-represents partially connected
+households (rural use 75.2% vs urban 88.9% — <code>E7</code>)</td>
+<td>The platform could <strong>reproduce the digital divide it wants to
+close</strong>. Mitigation: offline channels (field agents, SMS,
+community leaders) and weighting against census household counts</td>
+</tr>
+<tr>
+<td><strong>Privacy</strong></td>
+<td>Precise home location + phone number + implicit income signals make
+re-identification possible; the data would be valuable to marketers</td>
+<td>Loss of trust → fewer registrations → a weaker signal. Mitigation:
+explicit consent, locality-level aggregates only until the household
+opts in, data retention limits, no resale</td>
+</tr>
+<tr>
+<td><strong>Bias</strong></td>
+<td>A take-up model trained on past deployments (mostly in denser,
+wealthier areas) will <strong>under-predict</strong> take-up in poorer
+or rural localities</td>
+<td>The optimizer would systematically deprioritize them, reinforcing
+the gap. Mitigation: fairness constraints (a minimum share for
+high-marginalization localities), co-funding, and validating errors by
+locality type</td>
+</tr>
+</tbody>
+</table>
+<p><strong>A statistical relationship that could be confused with
+causation.</strong></p>
+<ul>
+<li><strong>Example 1:</strong> localities with more registrations show
+higher take-up after deployment. That does not prove the platform
+<em>caused</em> the adoption. Both could be driven by higher income,
+education or community organization. Testing causality would need
+comparable localities with and without campaigns (e.g., randomized
+campaign timing or difference-in-differences).</li>
+<li><strong>Example 2, from Part I:</strong> Brazil's fixed broadband
+grew faster while its small providers gained share (<code>E3</code>,
+<code>E9</code>). That association does not show that small providers
+<em>caused</em> the growth; income, regulation and prices also
+changed.</li>
+</ul>
+<hr />
+<h2 id="10-patents-and-innovation">10. Patents and innovation</h2>
+<p><strong>WIPO query (mandatory).</strong></p>
+<ul>
+<li><em>Source:</em> WIPO IP Statistics Data Center, indicator "4a –
+Patent publications by technology", by applicant's origin,
+2014–2024.</li>
+<li><em>Fields:</em> the four closest to our proposal:
+Telecommunications, Digital communication, Computer technology and IT
+methods for management.</li>
+<li><em>Evidence:</em> screenshots, data and the exact query are in <a
+href="https://github.com/ldpl3012/DE-a2-mexico-vrs-4-countries-team1/tree/master/part2/wipo/"><code>wipo/</code></a>
+(<code>E12</code>–<code>E14</code>).</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Origin</th>
+<th>Publications per year, 2021–2023 avg.</th>
+<th>Per million people</th>
+<th>Telecom + digital communication per million</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>South Korea</td>
+<td>54,245</td>
+<td>1,048.9</td>
+<td>371.3</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>3,941</td>
+<td>708.7</td>
+<td>572.5</td>
+</tr>
+<tr>
+<td>India</td>
+<td>5,501</td>
+<td>3.9</td>
+<td>1.1</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>315</td>
+<td>1.5</td>
+<td>0.4</td>
+</tr>
+<tr>
+<td><strong>Mexico</strong></td>
+<td><strong>89</strong></td>
+<td><strong>0.7</strong></td>
+<td><strong>0.2</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Mexico is last, and falling.</strong> It has about 89
+publications a year in these four fields, 21% fewer than in 2014–2016
+(≈113). South Korea publishes about <strong>1,500 times more per
+person</strong>.</li>
+<li>Finland leads in telecom + digital communication per person, which
+fits its specialization in network equipment.</li>
+<li><strong>2024 is left out of the averages</strong> because Brazil,
+India and Mexico show drops that are most likely incomplete data for the
+latest year.</li>
+<li><strong>Implication for ConectaMapa:</strong> Mexico's digital
+sector does not compete through patents today. Our proposal's advantage
+would come from <strong>data and network effects</strong> rather than
+from intellectual property (see Q3 and Q5 below).</li>
+</ul>
+<ol type="1">
+<li><p><strong>What is a patent and what does it protect?</strong> An
+exclusive right granted by the state over an invention (a product or
+process that offers a new technical solution to a problem) for a limited
+period, generally 20 years, in exchange for publicly disclosing how it
+works. It protects the <strong>technical solution</strong>, not ideas,
+business models or data as such.</p></li>
+<li><p><strong>Novelty, inventive activity, industrial
+application.</strong></p>
+<ul>
+<li><em>Novelty:</em> the invention has not been disclosed anywhere
+before the filing date.</li>
+<li><em>Inventive activity:</em> it is not obvious to a person skilled
+in the field.</li>
+<li><em>Industrial application:</em> it can be produced or used in some
+industry.</li>
+</ul>
+<p>Mexican law (LFPPI, Art. 48) requires all three
+(<code>E11</code>).</p></li>
+<li><p><strong>Could any component be inventive?</strong> The
+<strong>business model</strong> (a demand-aggregation marketplace) is
+<strong>not</strong> patentable. Mexican law excludes business methods
+and computer programs <em>as such</em> (LFPPI, Art. 47 —
+<code>E11</code>). A <em>possible</em> inventive component would be a
+<strong>technical method</strong> that combines crowdsourced speed
+measurements, geospatial census data and network-design parameters to
+estimate the cost and viability of connecting a locality. Even that
+might fail the inventive-activity test if examiners judge it an obvious
+combination of known techniques.</p></li>
+<li><p><strong>Main technology area.</strong></p>
+<ul>
+<li>The platform itself: <strong>computer technology</strong>
+(analytics, data processing; in WIPO's classification, close to "IT
+methods for management").</li>
+<li>What it helps deploy: <strong>telecommunications / digital
+communication</strong> (the fixed networks, and the speed-measurement
+component).</li>
+</ul></li>
+<li><p><strong>Are several patents proof of high innovation, adoption or
+economic success?</strong> No.</p>
+<ul>
+<li>Patents count <em>invention attempts</em> (applications), not
+quality or use.</li>
+<li>Many patents are never commercialized; others are filed defensively
+or strategically.</li>
+<li>The propensity to patent varies by sector and country.</li>
+<li>Adoption and success must be measured with other evidence:
+subscribers, revenue, market share.</li>
+</ul>
+<p>This connects to Part I: resident patents were one of Mexico's
+weakest indicators, and that alone did not describe its digital
+capabilities.</p></li>
+</ol>
+<hr />
+<h2 id="11-digital-does-not-mean-immaterial">11. Digital does not mean
+immaterial</h2>
+<p><strong>Physical elements needed:</strong></p>
+<ol type="1">
+<li>Household devices (smartphones or computers) to register and run
+speed tests.</li>
+<li>Servers in data centres, with cooling, to host the platform.</li>
+<li>The ISP's physical network: fibre-optic cable, poles or trenches,
+optical line terminals and home terminals (or fixed-wireless radios and
+towers).</li>
+<li>Electricity, including backup power, for all network equipment.</li>
+</ol>
+<ul>
+<li><strong>Material cost:</strong> fibre per kilometre plus equipment
+per home. ConectaMapa cannot reduce that cost; it only helps spend it
+where take-up is higher.</li>
+<li><strong>Energy cost:</strong> network equipment (terminals, radios,
+towers) consumes electricity 24/7. In rural localities with an
+unreliable grid this requires batteries, solar panels or diesel
+generators. The platform's own cloud consumption is small by
+comparison.</li>
+<li><strong>Environmental externality:</strong> electronic waste from
+routers and terminals replaced every few years; emissions from diesel
+backup; land disturbance from trenching.</li>
+</ul>
+<hr />
+<h2 id="12-artificial-intelligence-and-energy">12. Artificial
+intelligence and energy</h2>
+<p><strong>The energy system in both directions: Mexico's national
+electricity grid.</strong> It is the same grid that powers the rural
+networks ConectaMapa helps deploy.</p>
+<table>
+<thead>
+<tr>
+<th>Direction</th>
+<th>Mechanism</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>AI can improve the grid</strong></td>
+<td>Machine-learning forecasts of electricity demand and of solar and
+wind output let the grid operator schedule generation and reserves more
+precisely, integrate more renewables and detect failures earlier. On the
+demand side, large loads can adapt to forecasts</td>
+<td>(a) A grid operator such as CENACE (Mexico's national energy control
+centre) could use AI forecasts of next-day demand and solar output to
+keep fewer fossil plants running as reserve. (b) Close to our project:
+ISPs connected to the same grid use traffic forecasts to put idle radio
+equipment into sleep mode at night, which cuts their load on the grid
+and their backup-battery needs</td>
+</tr>
+<tr>
+<td><strong>AI growth raises demands on the same grid</strong></td>
+<td>AI data centres add large loads that run 24/7, plus cooling, and
+require new generation and transmission capacity</td>
+<td>The IEA estimates that a typical AI-focused data centre uses as much
+electricity as 100,000 households, and the largest under construction 20
+times as much (<code>E15</code>). Global data-centre use was ~415 TWh in
+2024 and is projected to reach ~945 TWh by 2030 (<code>E10</code>). A
+new AI data centre connected to Mexico's grid competes for the same
+generation and transmission capacity that rural localities, and the ISP
+networks we help build, depend on. In our own design we avoid adding to
+that load: registration uses a simple form, not a large language-model
+chatbot</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="13-final-proposal">13. Final proposal</h2>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Guiding question</th>
+<th>ConectaMapa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Problem</strong></td>
+<td>What situation are we trying to solve?</td>
+<td>Regional ISPs expand fixed broadband without seeing real demand;
+viable underserved localities stay unconnected</td>
+</tr>
+<tr>
+<td><strong>Evidence</strong></td>
+<td>What data show the problem is relevant?</td>
+<td>21.7 fixed subscriptions per 100 people (4th of 5;
+<code>E1</code>–<code>E2</code>); slower growth than Brazil since 2021
+(<code>E3</code>); ≈8.6 million households without internet
+(<code>E6</code>); strong geographic gaps
+(<code>E7</code>–<code>E8</code>); in Brazil, regional ISPs hold 63.3%
+of fixed broadband (<code>E9</code>)</td>
+</tr>
+<tr>
+<td><strong>Strategy</strong></td>
+<td>How would data be obtained and analyzed?</td>
+<td>Online and offline registration, joined with census and speed data;
+four levels of analysis, ending with an optimization of the rollout plan
+(§3–§5)</td>
+</tr>
+<tr>
+<td><strong>Decision</strong></td>
+<td>What decision could be improved?</td>
+<td>Which locality the ISP connects next, and at what price; where
+municipalities co-invest</td>
+</tr>
+<tr>
+<td><strong>Value</strong></td>
+<td>Who benefits?</td>
+<td>Households and small businesses (connection), ISPs (lower risk,
+cheaper acquisition), municipalities (evidence for investment)</td>
+</tr>
+<tr>
+<td><strong>Business model</strong></td>
+<td>How could it be sustained?</td>
+<td>Free for households; SaaS + success fee for ISPs; aggregated reports
+for the public sector (§6)</td>
+</tr>
+<tr>
+<td><strong>Limitations</strong></td>
+<td>What could make it fail?</td>
+<td>ISPs lacking capital even when demand exists; permits and rights of
+way; fake or inflated demand; the cold start; localities that are never
+viable without subsidy; dependence on ISP participation; privacy
+incidents; regulatory changes</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="sources">Sources</h2>
+<p>See <a href="https://github.com/ldpl3012/DE-a2-mexico-vrs-4-countries-team1/blob/master/part2/evidence_log.csv"><code>evidence_log.csv</code></a> for
+values, periods and access dates.</p>
+<ul>
+<li>Part I dataset: ITU indicators via the World Bank WDI API
+(<code>../data/raw/</code>).</li>
+<li>INEGI, <em>ENDUTIH 2025 — Reporte de Resultados 19/26</em> (16 June
+2026).</li>
+<li>Anatel, <em>Relatório de Monitoramento da Competição —
+4T2025</em>.</li>
+<li>IEA, <em>Energy and AI</em> (2025).</li>
+<li><em>Ley Federal de Protección a la Propiedad Industrial</em>
+(Mexico, 2020), Arts. 47–48.</li>
+<li>WIPO IP Statistics Data Center, <em>4a – Patent publications by
+technology</em> (database updated May 2026; consulted 29 September 2026)
+— evidence in <a href="https://github.com/ldpl3012/DE-a2-mexico-vrs-4-countries-team1/tree/master/part2/wipo/"><code>wipo/</code></a>.</li>
+<li>World Bank WDI, population (<code>SP.POP.TOTL</code>), used for
+per-million figures.</li>
+</ul>
+
+
+</body>
+</html>
