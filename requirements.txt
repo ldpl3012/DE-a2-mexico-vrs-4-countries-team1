@@ -1,1 +1,5 @@
-# No third-party packages are needed for build_analysis.py (Python 3.10+).
+# build_analysis.py needs only the Python 3.10+ standard library.
+# The notebook (data exploration, charts) additionally needs:
+pandas>=2.0
+matplotlib>=3.7
+jupyter

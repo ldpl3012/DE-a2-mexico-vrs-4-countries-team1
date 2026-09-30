@@ -95,7 +95,15 @@ main{max-width:980px;margin:0 auto;padding:0 6vw}
 /* diagnostic */
 .diagnostic-card{background:linear-gradient(150deg,var(--purple-950),var(--purple-800) 80%);color:#fff;border-radius:22px;padding:40px 38px;box-shadow:var(--shadow);position:relative;overflow:hidden;margin-top:28px}
 .diagnostic-card::before{content:"“";position:absolute;top:-10px;left:20px;font-size:8rem;font-family:Georgia,serif;color:rgba(255,255,255,.08);line-height:1}
-.diagnostic-card p{position:relative;z-index:1;font-size:1.18rem;line-height:1.65;font-weight:500}
+.diag-list{position:relative;z-index:1;display:grid;gap:18px;margin:0}
+.diag-list dt{font-size:.74rem;text-transform:uppercase;letter-spacing:.12em;color:var(--pink-300);font-weight:800}
+.diag-list dd{margin:4px 0 0;font-size:1.02rem;line-height:1.6;color:#fff}
+
+/* chart readings */
+.interpret{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:-8px 0 0}
+.interpret div{background:var(--lavender-50);border-radius:14px;padding:16px 18px;font-size:.9rem;line-height:1.6;color:var(--ink-900)}
+.interpret h3{font-family:'Inter',sans-serif;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em;color:var(--pink-500);margin-bottom:6px}
+@media(max-width:760px){.interpret{grid-template-columns:1fr}}
 .caveat-note{margin-top:18px;font-size:.85rem;font-style:italic;color:var(--ink-600);border-left:3px solid var(--pink-300);padding-left:14px;line-height:1.6}
 
 /* footer */
@@ -135,7 +143,7 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
       <h2>One index, eight official signals, five countries</h2>
       <p class="lede">Every country gets a single Digital Readiness Score (DRS) — the equal-weight average of eight officially sourced indicators, each rescaled to a 0–1 range so infrastructure, use, and innovation can be compared on the same footing. It is a descriptive snapshot, not a causal claim.</p>
       <div class="indicator-chips" id="chipRow"></div>
-      <div class="method-note">Each score uses the most recent official observation available per country-indicator pair from the World Bank WDI API (originally reported by ITU and WIPO) — years can differ across indicators, and nothing is imputed. See the source log for exact provenance.</div>
+      <div class="method-note">Values come from the World Bank WDI API. The original producers are ITU (connectivity and use), WIPO (patents) and World Bank compilations of Netcraft, IMF, UN Comtrade and UNESCO data. Each indicator uses a common reference year, the latest reported by at least four of the five countries; the only exception is India's R&amp;D (2020, against 2023). Nothing is imputed. Secure servers and patents, whose max/min ratio exceeds 100, are log-transformed before rescaling. See <code>source_log.csv</code> for full provenance.</div>
     </div>
   </section>
 
@@ -150,6 +158,11 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
       <div id="drs" class="chart"></div>
       <p class="chart-caption">Digital Readiness Score (0–1) · equal-weight average of eight normalised indicators · Mexico highlighted.</p>
     </div>
+    <div class="interpret reveal">
+      <div><h3>What do I observe?</h3>South Korea leads (0.84), followed by Finland (0.55). Brazil (0.31), India (0.27) and Mexico (0.22) form a lower group. Mexico is 5th of 5, 0.62 points below the leader and 0.09 below Brazil.</div>
+      <div><h3>What does it mean?</h3>On these eight indicators, Mexico's digital readiness is closer to the emerging-economy peers than to the two advanced benchmarks, and it is the lowest of the group.</div>
+      <div><h3>What can't I conclude?</h3>The score is relative to these five countries and depends on equal weights; the order of Brazil, India and Mexico changes with some weighting choices, so the bottom three are not clearly separated. The DRS does not measure affordability, speed, skills or compute, and it says nothing about causes.</div>
+    </div>
   </section>
 
   <section class="story-section" id="profiles" data-nav="Profiles">
@@ -160,7 +173,12 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
     </div>
     <div class="chart-card reveal" id="heatCard">
       <div id="heat" class="chart"></div>
-      <p class="chart-caption">Each cell is the indicator's min–max normalised value (0 = lowest of the five, 1 = highest) for that country.</p>
+      <p class="chart-caption">Each cell is the indicator's min–max normalised value (0 = lowest of the five, 1 = highest) for that country; secure servers and patents are log-transformed first.</p>
+    </div>
+    <div class="interpret reveal">
+      <div><h3>What do I observe?</h3>South Korea scores highest in 6 of 8 indicators. Finland leads in secure servers, and India leads in ICT service exports (48.6% of service exports) while being last in all three connectivity and use indicators. Mexico scores 0 (lowest of the five) in four indicators (secure servers, ICT service exports, R&amp;D and patents) and 0.37–0.55 in connectivity, use and high-tech exports.</div>
+      <div><h3>What does it mean?</h3>Close DRS values hide very different profiles. India's score comes from digital trade and patent volume, Brazil's from a fairly even spread, and Mexico's almost entirely from connectivity, use and high-tech exports.</div>
+      <div><h3>What can't I conclude?</h3>A 0 means "lowest of these five", not absence. The same difference in normalised score does not mean the same thing across indicators, and the chart hides absolute gaps: Mexico's 0 in secure servers is 532 per million, against Brazil's 6,941.</div>
     </div>
   </section>
 
@@ -174,6 +192,11 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
       <div id="radar" class="chart"></div>
       <p class="chart-caption">Click a country in the legend to isolate its profile.</p>
     </div>
+    <div class="interpret reveal">
+      <div><h3>What do I observe?</h3>Mexico's profile extends only on the connectivity side. It is 3rd of five in mobile subscriptions (116.5 per 100, ahead of Brazil and India) and 4th in fixed broadband and internet use. It is also 2nd in high-tech exports (19.3%). On innovation and digital activity it collapses to the centre: it is last in R&amp;D, resident patents, ICT service exports and secure servers.</div>
+      <div><h3>What does it mean?</h3>Mexico has a moderate connectivity base, led by mobile, but has not turned it into technological capacity or digital exports. Its main gap is innovation and digital value capture, not network access.</div>
+      <div><h3>What can't I conclude?</h3>The shape and area of a radar depend on the order of the axes and are not the DRS. High-tech exports largely reflect assembly for export and do not prove domestic digital capability. Being ahead of India does not mean Mexico's connectivity is sufficient in absolute terms.</div>
+    </div>
   </section>
 
   <section class="story-section" id="scatter-section" data-nav="Connectivity vs Use">
@@ -186,16 +209,27 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
       <div id="scatter" class="chart"></div>
       <p class="chart-caption">Marker colour encodes the Digital Readiness Score · Mexico's marker is outlined for reference.</p>
     </div>
+    <div class="interpret reveal">
+      <div><h3>What do I observe?</h3>Fixed broadband and internet use rise together across the five economies (Pearson r = 0.98; Spearman ρ = 1.0). Mexico (21.7 subscriptions; 83.1% users) sits just below Brazil (24.1; 84.5%) and far above India (3.2; 64.9%).</div>
+      <div><h3>What does it mean?</h3>Economies with more fixed broadband also have more people online. India reaches 64.9% internet use with almost no fixed lines, which is consistent with mobile being its main access route.</div>
+      <div><h3>What can't I conclude?</h3>With five points the correlation is fragile. It does not show that broadband causes internet use: both follow income, urbanisation, prices and skills. It does not tell us how much internet use would rise in Mexico if fixed broadband expanded.</div>
+    </div>
   </section>
 
   <section class="story-section diagnostic-section" id="diagnostic" data-nav="Diagnostic">
     <div class="reveal">
       <span class="kicker">Diagnostic</span>
-      <h2>What this tells us about Mexico</h2>
+      <h2>Final diagnosis: what this tells us about Mexico</h2>
       <div class="diagnostic-card">
-        <p id="diagnosticText"></p>
+        <dl class="diag-list">
+          <div><dt>1 · How does Mexico compare?</dt><dd>Mexico ranks 5th of 5 on the Digital Readiness Score (0.22), behind South Korea (0.84), Finland (0.55), Brazil (0.31) and India (0.27). It belongs to a lower group with Brazil and India; its last place is robust to most weighting choices, but not all.</dd></div>
+          <div><dt>2 · Main strength</dt><dd>Mobile connectivity: 116.5 subscriptions per 100 people (2024), 3rd of 5, ahead of Brazil (101.9) and India (79.4).</dd></div>
+          <div><dt>3 · Main gap</dt><dd>Innovation and digital value capture. Mexico is last in R&amp;D (0.27% of GDP), resident patents (1,117), ICT service exports (5.1% of service exports) and secure servers (532 per million).</dd></div>
+          <div><dt>4 · Most interesting comparison: Brazil</dt><dd>It is Mexico's closest peer in score, income and region, yet it invests 4.5 times more in R&amp;D (1.19% of GDP), files four times more resident patents (4,666) and has a higher share of ICT service exports (13.7%). Since 2021 it has also overtaken Mexico in fixed broadband (24.1 vs 21.7 per 100).</dd></div>
+          <div><dt>5 · Main limitation of the data</dt><dd>The eight indicators are proxies with gaps: they include no measure of affordability, speed, compute or digital skills, and they mix observation years (patents 2021, India's R&amp;D 2020). Because scores are rescaled within five countries, they describe relative positions, not absolute readiness.</dd></div>
+        </dl>
       </div>
-      <p class="caveat-note">This is not evidence that one variable causes another. Years differ by indicator, and the score omits affordability, cloud/compute capacity, digital skills, and broader institutional context.</p>
+      <p class="caveat-note">Descriptive comparison only: none of these associations shows that one variable causes another. Full analysis, robustness checks and data preparation are in <code>notebooks/Digital_Economy_Analysis.ipynb</code>.</p>
     </div>
   </section>
 
@@ -203,7 +237,7 @@ footer .team{margin-top:14px;color:rgba(255,255,255,.5);font-size:.78rem}
 
 <footer>
   <p><strong>Digital Economy Intelligence Lab</strong> — Team 1</p>
-  <p>Data: World Bank WDI API (originally reported by ITU and WIPO) · Telecommunications sector · Mexico, South Korea, Finland, Brazil, India</p>
+  <p>Data: World Bank WDI API · original producers ITU, WIPO, Netcraft, IMF, UN Comtrade, UNESCO UIS · Telecommunications sector · Mexico, South Korea, Finland, Brazil, India</p>
   <p>Digital Readiness Score: equal-weight, min–max normalised index (0–1) · descriptive comparison only, not causal</p>
   <div class="team">Rebuilt automatically by <code>build_analysis.py</code> from official observations in <code>data/raw/</code></div>
 </footer>
@@ -360,12 +394,6 @@ Plotly.newPlot('scatter', [{
   xaxis:{title:'Fixed broadband subscriptions / 100 people', gridcolor:'#EDE8F7', zeroline:false},
   yaxis:{title:'Internet users (%)', gridcolor:'#EDE8F7', zeroline:false, range:[0,105]}
 }), cfg);
-
-/* ---- Diagnostic text ---- */
-const gaps = labels.map(k=>[k, mexico[k+'_norm'], leader[k+'_norm']]).sort((a,b)=>(a[1]-a[2])-(b[1]-b[2]));
-document.getElementById('diagnosticText').textContent =
-  `Mexico ranks ${mexicoRank} of ${d.length} on this Digital Readiness Score, at ${mexico.digital_readiness_score.toFixed(2)} against ${leader.country}’s ${leader.digital_readiness_score.toFixed(2)}. `+
-  `Its widest normalised gap against the leader is in ${nice(gaps[0][0])} — the clearest single place a next-step policy or investment conversation should start.`;
 
 /* ---- scroll reveal ---- */
 const revealEls = document.querySelectorAll('.reveal, .chart-card');
